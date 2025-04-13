@@ -1,7 +1,7 @@
 ---
 permalink: /account/
 layout: single
-title: "COMputation Island"
+title: "IIOS"
 ---
 
 <p align="center">
