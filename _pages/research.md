@@ -4,45 +4,67 @@ layout: single
 title: "Research"
 ---
 
-## Peer-reviewed Publications
+## Publications
 
-### Digital Technologies and Information Manipulation in Authoritarian Politics
-<b>Lu, Y.</b>, Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin. <i>American Journal of Political Science</i>. ([Preprint](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803))
+### 🌐 International Political Communication
+**Zhang, C.**, Jin, Y., & Si, R. (2025). **Propaganda à la Russe: Historical Continuance and Modern Adaptation**. Critical Studies in Media Communication, 1-6. [https://doi.org/10.1080/15295036.2025.2469094](https://doi.org/10.1080/15295036.2025.2469094)
 
-Hanley, H., <b>Lu, Y.*</b>, & Pan, J. (2025). <b>Across the Firewall: Foreign Media’s Role in Shaping Chinese Social Media Narratives on the Russo-Ukrainian War</b>. <i>Proceedings of the National Academy of Sciences</i>. [∗co-first author] ([DOI](https://www.pnas.org/doi/full/10.1073/pnas.2420607122))
+**Zhang, C.**, & Zhou, T.(2023). **Russia’s Strategic Communication during the Ukraine Crisis (2013-2014): Victims, Hypocrites, and Radicals**. Discourse & Communication, 17(6), 784-810.[https://doi.org/10.1080/01292986.2024.2335894](https://doi.org/10.1080/01292986.2024.2335894)
 
-Chen, K., <b>Lu, Y.*</b>, & Wang, Y. (2023). <b>Unraveling China’s digital traces: evaluating communication scholarship through a sociotechnical lens</b>. <i>Chinese Journal of Communication</i>. Online First in October 2023. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/17544750.2023.2264406))
+**Zhang, C.**, Zhang, D., & Blanchard, P.(2023). **International Broadcasting During Times of Conflict: A Comparison of China’s and Russia’s Communication Strategies**. Journalism Practice, 18(8), 1977-2004. [https://doi.org/10.1080/17512786.2022.2140445](https://doi.org/10.1080/17512786.2022.2140445)
 
-Chen, A., <b>Lu, Y.*</b>, Chen, K., & Ng, A. (2023). <b>Pandemic Nationalism: Use of Government Social Media for Political Information and Belief in COVID-19 Conspiracy Theories in China</b>. <i>The International Journal of Press/Politics</i>. [∗co-first author] ([DOI](https://journals.sagepub.com/doi/10.1177/19401612231153107))
-
-<b>Lu, Y.</b>, Schaefer, J., Park, K., Joo, J., & Pan, J. (2022). <b>How Information Flows from the World to China</b>. <i>The International Journal of Press/Politics</i>. Online First in August 2022. ([DOI](https://journals.sagepub.com/doi/10.1177/19401612221117470), [Replication](https://doi.org/10.7910/DVN/7C7FEI))
-
-<b>Lu, Y.</b>, & Pan J. (2022). <b>The Pervasive Presence of Chinese Government Content on Douyin Trending Videos</b>. <i>Computational Communication Research</i>. 4(1). 68-97. ([DOI](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU), [Replication](https://github.com/yingdanlu/Douyin_CCR))
-
-<b>Lu, Y.</b>, Pan J., & Xu Y. (2021). <b>Public Sentiment on Chinese Social Media during the Emergence of COVID-19</b>. <i>Journal of Quantitative Description: Digital Media.</i> 1, 2021, 1-47. ([DOI](https://doi.org/10.51685/jqd.2021.013), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZIIQUG))
-
-<b>Lu, Y.</b>, & Pan J. (2021). <b>Capturing Clicks: How the Chinese Government Uses Clickbait to Compete for Visiblity</b>. <i>Political Communication</i>. 38(1-2), 23-54. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914), [Appendix](/Lu&Pan_appendix.pdf), [Replication](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/TALJOT))
-
-
-### Multimodal Communication in AI-mediated Environments
-<b>Lu, Y.</b>, & Peng, Y. (2024). <b>The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests</b>. <i>Political Communication</i>, 1-28. ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=))
-
-Qian, S., <b>Lu, Y.</b>, & Peng, Y., Shen, C. & Xu, H. (2024). <b>Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram</b>. <i>Public Relations Review</i>, Online First in March 2024. ([DOI](https://drive.google.com/file/d/1Km2gyqiDD7XEG5BycAbxIMvumh92HoNV/view))
-
-Christin, A., & <b>Lu, Y.</b> (2023). <b>The Influencer Pay Gap: Platform Labor Meets Racial Capitalism</b>. <i>New Media & Society</i>. ([DOI](https://doi.org/10.1177/14614448231164995))
-
-<b>Lu, Y.</b>, & Shen, C. (2023). <b>Unpacking Multimodal Fact-checking: Features and Engagement of Fact-checking Videos on Chinese TikTok (Douyin)</b>. <i>Social Media + Society</i>. ([DOI](https://journals.sagepub.com/doi/10.1177/20563051221150406))
-
-Peng, Y., <b>Lu, Y.*</b>, & Shen, C. (2023). <b>An Agenda for Studying Credibility Perceptions of Visual Misinformation</b>. <i>Political Communication</i>. [∗co-first author] ([DOI](https://www.tandfonline.com/doi/full/10.1080/10584609.2023.2175398))
-
-Muise, D., <b>Lu, Y.</b>, Pan J., & Reeves, B. (2022). <b>Selectively Localized: Temporal and Visual Structure of Smartphone Screen Activity across Media Environments</b>. <i>Mobile Media & Communication</i>. 10(3), 487–509. ([DOI](https://journals.sagepub.com/doi/full/10.1177/20501579221080333#_i32))
-
-Reeves, B., Ram N., Robinson T. N., Cummings J. J., Giles L., Pan J., Chiatti A., Cho M., Roehrick K., Yang X., Gagneja A., Brinberg M., Muise D., <b>Lu Y.</b>, Luo M., Fitzgerald A., Yeykelis L. (2021). <b>Screenomics: A Framework to Capture and Analyze Personal Life Experiences and the Ways that Technology Shapes Them</b>. <i>Human-Computer Interaction</i>. 36(2), 150-201. ([DOI](https://www.tandfonline.com/doi/full/10.1080/07370024.2019.1578652). [<i>New York Times</i> report](https://www.nytimes.com/2019/05/31/health/screen-time-mental-health-screenome.html))
+Shen, G., Fan, X., & **Zhang, C.** (2019).**Contesting for Discursive Power: Content Analysis of China and Russia’s TV Channels’ Digital Discourse**. News Journalist, (04): 65-77. [https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2019.04.007](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2019.04.007) (沈国麟, 樊祥冲, 张畅. 争夺话语权: 中俄国家电视台在社交媒体上的话语传播, 新闻记者, (04):65-77.)
 
 
 
-## Dissertation
-<b>Lu, Y. _Performative Propaganda Engagement: How Online Celebrity Fandom Engages with State Propaganda in
-China._</b>
+### 📚 Norm Research & International Relations
+**Zhang, C.**, & Zhao, X. (2024). **On the Three Historical Shifts in the Study of International Relations in China**. *The Journal of Northeast Normal University*, (6), 103–104. [https://doi.org/10.16164/j.cnki.22-1062/c.2024.02.016](https://doi.org/10.16164/j.cnki.22-1062/c.2024.02.016)  
+(**张畅**, 赵雪波. **论中国国际关系学的三次历史转向**. 东北师大学报(哲学社会科学版), (02), 157–164)
 
-<b>Abstract:</b> Established research on authoritarian information control has extensively examined the top-down dissemination of political propaganda and its impact on public attitudes and behaviors. This research introduces a novel theory, <i>performative propaganda engagement</i>, which focuses on individuals who engage with state propaganda in a performative manner to benefit an individual or a group they align with, rather than genuinely endorsing or promoting propaganda. Through mixed methods research approaches, this research empirically investigates performative propaganda engagement within the realm of Chinese online celebrity fandom, a rising cultural force on Chinese social media. The findings reveal that celebrity fans in China actively incorporate the promotion of state propaganda into their daily activities, aiming to enhance the visibility and reputation of their celebrities. I find that celebrity fans performatively engage with state propaganda through three mechanisms — celebrity mobilization, direct state mobilization, and algorithmic visibility manipulation. By exploring the manifestations of performative propaganda engagement, this research contributes to a deeper understanding of the downstream effects of authoritarian information control, contemporary fandom culture in China, the metrics-driven nature of social media ecosystem, and authoritarian resilience in the digital age. 
+**Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [https://doi.org/10.1057/s41311-023-00513-0](https://doi.org/10.1057/s41311-023-00513-0)
+
+**Krickovic, A., & Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [https://doi.org/10.1093/cjip/poaa006](https://doi.org/10.1093/cjip/poaa006)
+
+**Zhang, C.**, & Wu, R. (2019). **Battlefield of Global Ranking: How Do Power Rivalries Shape Soft Power Index Building?** *Global Media and China*, 4(2): 179–202. [https://doi.org/10.1177/2059436419855876](https://doi.org/10.1177/2059436419855876)
+
+### 🌍 Media, Communication & Global Governance
+**Zhang, C.**, Blanchard, P., & Zhang, D. (2024). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. *Journalism Practice*, 18(8), 1977–2004. [https://doi.org/10.1080/17512786.2022.2140445](https://doi.org/10.1080/17512786.2022.2140445)
+
+Wang, Z., **Zhang, C.**, & Li, S. (2023). **Does Nationalism Motivate or Demotivate? Unpacking Complex Identity-Motivation Nexus in the Context of Chinese Earners of Japanese**. *Language and Intercultural Communication*, 23(3), 308–320. [https://doi.org/10.1080/14708477.2023.2195855](https://doi.org/10.1080/14708477.2023.2195855)
+
+**Zhang, C.**, & Wang, Z. (2023). **Despicable ‘other’ and Innocent ‘us’: Emotion Politics in the Time of the Pandemic**. *Humanities and Social Sciences Communications*. [https://doi.org/10.7910/DVN/WOHWYD](https://doi.org/10.7910/DVN/WOHWYD)
+
+**Zhang, C.**, Zhang, D., & Shao, H. (2023). **The Softening of Chinese Digital Propaganda: Evidence From the People’s Daily Weibo Account During the Pandemic**. *Frontiers in Psychology*, online. [https://doi.org/10.3389/fpsyg.2023.1049671](https://doi.org/10.3389/fpsyg.2023.1049671)
+
+**Zhang, C.** (2022). **The Three Paths of Media and Global Governances**. *Journalism Lover*, (11): 51–54. [https://doi.org/10.16017/j.cnki.xwahz.2022.11.030](https://doi.org/10.16017/j.cnki.xwahz.2022.11.030)  
+(张畅. **媒介与全球治理的三重路径**. 新闻爱好者, (11): 51–54)
+
+**Zhang, C.**, & Wu, R. (2019). **Battlefield of Global Ranking: How Do Power Rivalries Shape Soft Power Index Building?** *Global Media and China*, 4(2), 179–202. [https://doi.org/10.1177/2059436419855876](https://doi.org/10.1177/2059436419855876)
+
+### 📖 Book Reviews & Others
+**Zhang, C.** (2025, January 10). **The Ventriloquism of Politics in Films**. *China Social Sciences Herald*.  (张畅. 电影中的政治“腹语术”. 中国社会科学报)
+
+**Zhang, C.** (2024). **Mapping the Media and Communication Landscape of Central Asia. An Anthology of Emerging and Contemporary Issues**. *Europe-Asia Studies*, 77(2), 335–337. [https://doi.org/10.1080/09668136.2025.2452812](https://doi.org/10.1080/09668136.2025.2452812)
+
+**Zhang, C.**, & Zhao, X. (2024). **China, Media, and International Conflicts: Edited by Shixin Ivy Zhang and Altman Yuzhu Peng**. *Asian Journal of Communication*, 34(4), 516–518.
+
+**Zhang, C.**, & Zhou, T. (2024). **Book Review: A Self-fulfilling Prophecy: Constructing Russia as an Imagined Enemy – Glenn Diesen, Russophobia: Propaganda in International Politics**. *Media, War & Conflict*, 17(2), 268–270. [https://doi.org/10.1177/17506352231216893](https://doi.org/10.1177/17506352231216893)
+
+**Zhang, C.** (2022). Book Review: **China’s Digital Presence in the Asia-Pacific: Culture, Technology, and Platforms**. *Media International Australia*, 192(1), 169–170. [https://doi.org/10.1177/1329878X221145976](https://doi.org/10.1177/1329878X221145976)
+
+**Zhang, C.** (2018). **Internet and Global Social Movement. In Shen Guolin (Ed.), Internet and Global Communication: Theories and Cases**. Shanghai: *Fudan University Press*.  
+(张畅. 第五章: 互联网与全球社会运动, 沈国麟编, 互联网与全球传播:理论与案例. 上海，复旦大学出版社.)
+
+
+
+## Selected Conferences 
+International Studies Association(ISA) Annual Meeting (65th)
+
+Midwest Political Science Association (MPSA) Annual Meeting (80th)
+
+International Pragmatics Association (IPrA) Annua Meeting (18th)
+
+American Political Science Association’s (APSA) Annual Meeting (118th)
+
+International Communication Association(ICA) Annual Meeting (75th, 74th, 73rd, 72nd)
+
