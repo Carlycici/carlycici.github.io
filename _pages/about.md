@@ -2,17 +2,35 @@
 permalink: /about/
 ---
 
-Welcome to my home page! My name is Yingdan Lu; I am an Assistant Professor of [Communication Studies](https://communication.northwestern.edu/academics/communication-studies/index.html) in the School of Communication at [Northwestern University](https://www.northwestern.edu/). I am the co-director of the [Computational Multimodal Communication Lab](https://sites.google.com/view/cmmclab), a core faculty in Northwestern's [Media, Technology, and Society (MTS)](https://mts.northwestern.edu/) and [Technology and Social Behavior (TSB)](https://tsb.northwestern.edu/) PhD programs, and affiliated with the [Center for Communication & Public Policy](https://polcomm.northwestern.edu/) and [Center for Human-Computer Interaction + Design](https://www.hci.northwestern.edu/). 
+**Welcome to My Academic Profile!**
+I am an Associate Professor at the Communication University of China and Executive Director of the Institute of International Studies. 
+My scholarship explores the dynamic interplay between communication systems and global power structures, with particular attention to international political communication, media and global governance, norm contestation, and the diplomatic strategies of China and Russia.
+Three central inquiries guide my current work: First, I examine how sovereign states and international organizations strategically employ communication tools—from public diplomacy to disinformation campaigns—to shape political narratives and influence public opinion. Second, I investigate how states mobilize discursive and institutional resources to redefine international norms and reconstruct behavioral expectations in our rapidly evolving multipolar world. Third, I analyze how visual representations not merely reflect but actively construct meaning in international politics, thereby shaping the very architecture of global relations.
+I particularly welcome engagement with graduate students seeking supervision and fellow scholars pursuing projects at the nexus of political communication and international studies. My research appears in leading journals including Chinese Journal of International Politics, Europe-Asia Studies, and Discourse & Communication, and I contribute editorial expertise to Politics and Governance as a special issue editor.
+My current portfolio includes directing multiple funded research initiatives while teaching core courses in International Politics and Diplomatic Studies. This work builds on my academic training: a Ph.D. from the University of Warwick, a Franco-Chinese dual master's degree from Sciences Po Paris and Fudan University, and an undergraduate education in International Relations at Fudan.
 
-My research focuses on **digital technology**, **political communication**, and **information manipulation** in **authoritarian** and **democratic** contexts, focusing on two areas: **digital technologies and information manipulation in authoritarian politics**, and **multimodal communication in AI-mediated environments.** My work has been published in peer-reviewed journals, including <i>Proceedings of the National Academy of Sciences</i>, <i>Political Communication</i>, <i>New Media & Society</i>, <i>Human-Computer Interaction</i>, <i>International Journal of Press/Politics</i>, and among other peer-reviewed journals.
 
-As a computational social scientist, my past and ongoing research has focused on advancing computational methods through the development of new frameworks analyzing multimodal data such as [images](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951) and [videos](https://www.aup-online.com/content/journals/10.5117/CCR2022.2.002.LU), the extension of natural language processing methods to analyze [cross-lingual digital communication](https://www.pnas.org/doi/full/10.1073/pnas.2420607122), and the promotion of [mixed-method research](https://www.tandfonline.com/doi/full/10.1080/10584609.2020.1765914). 
+## Academic Appointments
+**Communication University of China**, School of Government and Public Affairs, Beijing, China
+  - Associate Professor, 2024-present
+  - Assistant Professor, 2023-2024
+  - Postdoctoral Faculty Fellow, 2021-2023
 
-I received my Ph.D. in [Communication at Stanford University](http://comm.stanford.edu) in 2023, advised by Professor [Jennifer Pan](http://jenpan.com), where I also earned a Ph.D. minor in [Political Science](https://politicalscience.stanford.edu/), and a M.A. degree from [Center of East Asian Studies](https://ceas.stanford.edu/). I obtained my B.A. degree from the [School of Journalism and Communication](http://www.tsjc.tsinghua.edu.cn/) at Tsinghua University.
+## Education
+**University of Warwick**
+  - PhD, Politics and International Studies, 2016-2021
+
+**Sciences Po Paris & Fudan University Dual Degree Program**
+  - MA, École de Communication & Media and Communication, 2014-2016 
+
+**Fudan University**
+  - BA, International Relations, 2010-2014
+
+## Editorial&Peer Review
+**Guest Editor:** Politics and Governance (Special Issue: Technology and Governance in the Age of Web 3.0)
+**Peer Review:** International Journal of Communication; Humanities and Social Sciences Communications; China perspectives; Journalism Practice.
 
 ## Latest Publications
-
-- Lu, Y., Pan, J., Xu, X., & Xu, Y. (Conditionally accepted). [Decentralized Propaganda in the Era of Digital Media: The Massive Presence of the Chinese State on Douyin](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5145803). *American Journal of Political Science*
-- Hanley, H. W., Lu, Y., & Pan, J. (2025). [Across the firewall: Foreign media’s role in shaping Chinese social media narratives on the Russo-Ukrainian War](https://www.pnas.org/doi/full/10.1073/pnas.2420607122). *Proceedings of the National Academy of Sciences*, 122(1)
-- Lu, Y., & Peng, Y. (2024). [The Mobilizing Power of Visual Media Across Stages of Social-Mediated Protests](https://www.tandfonline.com/doi/full/10.1080/10584609.2024.2317951?src=). *Political Communication*. 1-28.
-- Qian, S., Lu, Y., Peng, Y., Shen, C., & Xu, H. (2024). [Convergence or divergence? A cross-platform analysis of climate change visual categories, features, and user engagement on Twitter and Instagram](https://www.sciencedirect.com/science/article/abs/pii/S036381112400033X). *Public Relations Review*. 50(2), 102454.
+- **Zhang, C.**, Jin, Y., & Si, R. (2025). **Propaganda à la Russe: Historical Continuance and Modern Adaptation**. Critical Studies in Media Communication, 1-6. https://doi.org/10.1080/15295036.2025.2469094
+- **Zhang, C.**(2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**, International Politics, online. https://doi.org/10.1057/s41311-023-00513-0
+- **Zhang, C.**, Blanchard, P., & Zhang, D. (2022). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. Journalism Practice, 18(8), 1977-2004. https://doi.org/10.1080/17512786.2022.2140445
