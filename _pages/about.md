@@ -3,6 +3,7 @@ permalink: /about/
 ---
 
 **Welcome to My Academic Profile!**
+
 I am an Associate Professor at the Communication University of China and Executive Director of the Institute of International Studies. 
 My scholarship explores the dynamic interplay between communication systems and global power structures, with particular attention to international political communication, media and global governance, norm contestation, and the diplomatic strategies of China and Russia.
 Three central inquiries guide my current work: First, I examine how sovereign states and international organizations strategically employ communication tools—from public diplomacy to disinformation campaigns—to shape political narratives and influence public opinion. Second, I investigate how states mobilize discursive and institutional resources to redefine international norms and reconstruct behavioral expectations in our rapidly evolving multipolar world. Third, I analyze how visual representations not merely reflect but actively construct meaning in international politics, thereby shaping the very architecture of global relations.
