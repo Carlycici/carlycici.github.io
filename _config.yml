@@ -63,16 +63,13 @@ author:
   bio    : "\ 
   Communication University of China \ \n
   School of Government and Public Affairs \ \n
-  Department of Political Communication \ \n
+  Department of Political Communication \ \n"
 
   Email: "changzhang@cuc.edu.cn"
   links:
-    # - label: "CV"
-    #   icon: "far fa-fw fa-file-pdf"
-    #   url: "/CV_Lu_Mar2025.pdf"
-     - label: "Email"
-       icon: "fas fa-fw fa-envelope-square"
-       url: "mailto:changzhang@cuc.edu.cn"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:changzhang@cuc.edu.cn"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
