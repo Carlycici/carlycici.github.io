@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: YINGDAN LU
-email: yingdan [at] northwestern.edu
+title: CHANG ZHANG
+email: changzhang@cuc.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -58,48 +58,36 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Yingdan Lu"
+  name   : "Chang Zhang"
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "\ 
-  Assistant Professor \ \n
-  Department of Communication Studies \ \n
-  School of Communication \ \n
-  Northwestern University  \ \n
-  Email: yingdan [at] northwestern.edu"
+  Communication University of China \ \n
+  School of Government and Public Affairs \ \n
+  Department of Political Communication \ \n
+
+  Email: changzhang@cuc.edu.cn"
   links:
-    - label: "CV"
-      icon: "far fa-fw fa-file-pdf"
-      url: "/CV_Lu_Mar2025.pdf"
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:yingdan@northwestern.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/YingdanL_kk/"
+    # - label: "CV"
+    #   icon: "far fa-fw fa-file-pdf"
+    #   url: "/CV_Lu_Mar2025.pdf"
+     - label: "Email"
+       icon: "fas fa-fw fa-envelope-square"
+       url: "mailto:changzhang@cuc.edu.cn"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=V_qZ9PwAAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
 #       url: "https://github.com/yingdanlu"
 
 footer:
   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope-square"
-#       url: "mailto:yingdan@northwestern.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/YingdanL_kk/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:changzhang@cuc.edu.cn"
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=V_qZ9PwAAAAJ&hl=en"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/yingdanlu"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/"
+      url: " https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
 
 defaults:
   # _posts
