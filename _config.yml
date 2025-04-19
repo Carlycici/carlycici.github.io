@@ -73,9 +73,10 @@ author:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/yingdanlu"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Chang-Zhang-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiaG9tZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
+
 
 footer:
   links:
@@ -85,6 +86,9 @@ footer:
     - label: "Google Scholar"
       icon: "fab fa-fw fa-google"
       url: " https://scholar.google.com/citations?user=CYxRAnAAAAAJ&hl=en&authuser=1"
+    - label: "ResearchGate"
+      icon: "fab fa-fw fa-researchgate"
+      url: "https://www.researchgate.net/profile/Chang-Zhang-2?ev=hdr_xprf&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiaG9tZSIsInByZXZpb3VzUGFnZSI6Il9kaXJlY3QiLCJwb3NpdGlvbiI6Imdsb2JhbEhlYWRlciJ9fQ"
 
 defaults:
   # _posts
