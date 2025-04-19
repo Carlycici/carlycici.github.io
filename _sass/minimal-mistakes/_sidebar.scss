@@ -128,7 +128,8 @@
 
   img {
     max-width: 400px;
-    border-radius: 0%;
+    filter: none !important; // 取消灰度滤镜
+    border-radius: 50%; // 圆形头像
 
     @include breakpoint($large) {
       padding: 5px;
