@@ -36,9 +36,6 @@ My current portfolio includes directing multiple funded research initiatives whi
 **Peer Review:** International Journal of Communication; Humanities and Social Sciences Communications; China perspectives; Journalism Practice.
 
 ## Latest Publications
-- **Zhang, C.**, Jin, Y., & Si, R. (2025). **Propaganda à la Russe: Historical Continuance and Modern Adaptation**. Critical Studies in Media Communication, 1-6.
-  https://doi.org/10.1080/15295036.2025.2469094
-- **Zhang, C.**(2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**, International Politics, online.
-  https://doi.org/10.1057/s41311-023-00513-0
-- **Zhang, C.**, Blanchard, P., & Zhang, D. (2022). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. Journalism Practice, 18(8), 1977-2004.
-  https://doi.org/10.1080/17512786.2022.2140445
+- **Zhang, C.**, Jin, Y., & Si, R. (2025). **Propaganda à la Russe: Historical Continuance and Modern Adaptation**. *Critical Studies in Media Communication*, 1-6. [(DOI)](https://doi.org/10.1080/15295036.2025.2469094)
+- **Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [(DOI)](https://doi.org/10.1057/s41311-023-00513-0)
+- **Zhang, C.**, Blanchard, P., & Zhang, D. (2022). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. *Journalism Practice*, 18(8), 1977-2004. [(DOI)](https://doi.org/10.1080/17512786.2022.2140445)
