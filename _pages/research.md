@@ -23,13 +23,11 @@ title: "Research"
 
   - **Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [https://doi.org/10.1057/s41311-023-00513-0](https://doi.org/10.1057/s41311-023-00513-0)
 
-  - **Krickovic, A., & Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [https://doi.org/10.1093/cjip/poaa006](https://doi.org/10.1093/cjip/poaa006)
+  - Krickovic, A., & **Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [https://doi.org/10.1093/cjip/poaa006](https://doi.org/10.1093/cjip/poaa006)
 
   - **Zhang, C.**, & Wu, R. (2019). **Battlefield of Global Ranking: How Do Power Rivalries Shape Soft Power Index Building?** *Global Media and China*, 4(2): 179–202. [https://doi.org/10.1177/2059436419855876](https://doi.org/10.1177/2059436419855876)
 
-  - ### 🌍 Media, Communication & Global Governance
-**Zhang, C.**, Blanchard, P., & Zhang, D. (2024). **International Broadcasting in the Time of Geopolitical Crises: Comparing Communication Strategies of CGTN and RT**. *Journalism Practice*, 18(8), 1977–2004. [https://doi.org/10.1080/17512786.2022.2140445](https://doi.org/10.1080/17512786.2022.2140445)
-
+### 🌍 Media, Communication & Global Governance
   - Wang, Z., **Zhang, C.**, & Li, S. (2023). **Does Nationalism Motivate or Demotivate? Unpacking Complex Identity-Motivation Nexus in the Context of Chinese Earners of Japanese**. *Language and Intercultural Communication*, 23(3), 308–320. [https://doi.org/10.1080/14708477.2023.2195855](https://doi.org/10.1080/14708477.2023.2195855)
 
   - **Zhang, C.**, & Wang, Z. (2023). **Despicable ‘other’ and Innocent ‘us’: Emotion Politics in the Time of the Pandemic**. *Humanities and Social Sciences Communications*. [https://doi.org/10.7910/DVN/WOHWYD](https://doi.org/10.7910/DVN/WOHWYD)
