@@ -127,12 +127,12 @@
   }
 
   img {
-    max-width: 400px;
+    max-width: 200px;
     filter: none !important; // 取消灰度滤镜
-    border-radius: 50%; // 圆形头像
+    border-radius: 0%; // 圆形头像
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 8px;
       border: 1px solid $border-color;
     }
   }
