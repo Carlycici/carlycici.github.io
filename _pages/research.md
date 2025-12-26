@@ -44,7 +44,7 @@ title: "Research"
 - **Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [(DOI)](https://doi.org/10.1057/s41311-023-00513-0)
 
 
-### 📖 Book Reviews & Others
+### Book Reviews & Others
 - **Zhang, C.** (2025, January 10). **The Ventriloquism of Politics in Films**. *China Social Sciences Herald*.  
 (张畅. 电影中的政治“腹语术”, *中国社会科学报*)
 
