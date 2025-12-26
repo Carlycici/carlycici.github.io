@@ -33,6 +33,10 @@ My current portfolio includes directing multiple funded research initiatives whi
 
 ## Editorial&Peer Review
 **Guest Editor:** Politics and Governance (Special Issue: Technology and Governance in the Age of Web 3.0)
+- This thematic issue examines how **artificial intelligence**, **metaverse imaginaries**, and **decentralized Web3 systems** have become arenas for states to build infrastructures, set technical standards, and project geopolitical power.
+- It reconceptualizes technology not merely as an object of regulation but as a **medium of statecraft** through which sovereignty, security, and leadership are contested and remade in a multipolar digital order.
+- **[Direct Access to Special Issue](https://doi.org/10.17645/pag.i443)**
+
 **Peer Review:** International Journal of Communication; Humanities and Social Sciences Communications; China perspectives; Journalism Practice.
 
 ## Latest Publications
