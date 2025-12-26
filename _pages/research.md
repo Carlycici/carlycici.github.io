@@ -32,7 +32,7 @@ title: "Research"
 
 - **Zhang, C.**, Zhang, D., & Blanchard, P. (2023). **International Broadcasting During Times of Conflict: A Comparison of China’s and Russia’s Communication Strategies**. *Journalism Practice*, 18(8), 1977-2004. [(DOI)](https://doi.org/10.1080/17512786.2022.2140445)
 
-- **Zhang, C.**, & Wang, Z. (2023). **Despicable ‘other’ and Innocent ‘us’: Emotion Politics in the Time of the Pandemic**. *Humanities and Social Sciences Communications*. [(DOI)](https://doi.org/10.7910/DVN/WOHWYD)
+- **Zhang, C.**, & Wang, Z. (2023). **Despicable “other” and Innocent “us”: Emotion Politics in the Time of the Pandemic**. *Humanities and Social Sciences Communications*. [(DOI)](https://doi.org/10.7910/DVN/WOHWYD)
 
 - Krickovic, A., & **Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [(DOI)](https://doi.org/10.1093/cjip/poaa006)
 
