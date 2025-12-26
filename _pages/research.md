@@ -45,10 +45,13 @@ title: "Research"
 
 
 ### Book Reviews & Others
+
+- **Zhang, C.**, & Wang, L. (2025). **Platforms, Power, and Politics: An Introduction to Political Communication in the Digital Age**. *International Journal of Communication*, 19, 2297-2299. [(Link)](https://ijoc.org/index.php/ijoc/article/view/25228)
+
 - **Zhang, C.** (2025, January 10). **The Ventriloquism of Politics in Films**. *China Social Sciences Herald*.  
 (张畅. 电影中的政治“腹语术”, *中国社会科学报*)
 
-- **Zhang, C.** (2024). **Mapping the Media and Communication Landscape of Central Asia. An Anthology of Emerging and Contemporary Issues**. *Europe-Asia Studies*, 77(2), 335–337. [(DOI)](https://doi.org/10.1080/09668136.2025.2452812)
+- **Zhang, C.** (2025). **Mapping the Media and Communication Landscape of Central Asia. An Anthology of Emerging and Contemporary Issues**. *Europe-Asia Studies*, 77(2), 335–337. [(DOI)](https://doi.org/10.1080/09668136.2025.2452812)
 
 - **Zhang, C.**, & Zhao, X. (2024). **China, Media, and International Conflicts: Edited by Shixin Ivy Zhang and Altman Yuzhu Peng**. *Asian Journal of Communication*, 34(4), 516–518.
 
