@@ -8,9 +8,9 @@ title: "Research"
 
 ### Media、Technology & Governance
 
-- **Zhang, C.**, & Wang, L. (2025). **Virtual worlds, real politics: A cross‐national comparative study of metaverse policy approaches**. *Politics and Governance*, 13. [(DOI)](https://doi.org/10.17645/pag.10239)
+- **Zhang, C.**, & Wang, L. (2025). **Virtual worlds, real politics: A cross‐national comparative study of metaverse policy approaches**. *Politics and Governance*, 13 , Article 10239. [(DOI)](https://doi.org/10.17645/pag.10239)
 
-- Hu, Z., **Zhang, C.**, & Galligan, D. (2025). **Technology as Statecraft: Remaking Sovereignty, Security, and Leadership in a Multipolar Age**. *Politics and Governance*, 13. [(DOI)](https://doi.org/10.17645/pag.11743)
+- Hu, Z., **Zhang, C.**, & Galligan, D. (2025). **Technology as Statecraft: Remaking Sovereignty, Security, and Leadership in a Multipolar Age**. *Politics and Governance*, 13, Article 11743. [(DOI)](https://doi.org/10.17645/pag.11743)
 
 - **Zhang, C.**, & Zhao, X. (2024). **On the Three Historical Shifts in the Study of International Relations in China**. *The Journal of Northeast Normal University*, (6), 103–104. [(DOI)](https://doi.org/10.16164/j.cnki.22-1062/c.2024.02.016)  
 (**张畅**, 赵雪波. **论中国国际关系学的三次历史转向**, *东北师大学报(哲学社会科学版)*, (02), 157–164)
