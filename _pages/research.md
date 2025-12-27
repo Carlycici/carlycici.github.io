@@ -12,9 +12,6 @@ title: "Research"
 
 - Hu, Z., **Zhang, C.**, & Galligan, D. (2025). **Technology as Statecraft: Remaking Sovereignty, Security, and Leadership in a Multipolar Age**. *Politics and Governance*, 13, Article 11743. [(DOI)](https://doi.org/10.17645/pag.11743)
 
-- **Zhang, C.**, & Zhao, X. (2024). **On the Three Historical Shifts in the Study of International Relations in China**. *The Journal of Northeast Normal University*, (6), 103–104. [(DOI)](https://doi.org/10.16164/j.cnki.22-1062/c.2024.02.016)  
-(**张畅**, 赵雪波. **论中国国际关系学的三次历史转向**, *东北师大学报(哲学社会科学版)*, (02), 157–164)
-
 - Wang, Z., **Zhang, C.**, & Li, S. (2023). **Does Nationalism Motivate or Demotivate? Unpacking Complex Identity-Motivation Nexus in the Context of Chinese Earners of Japanese**. *Language and Intercultural Communication*, 23(3), 308–320. [(DOI)](https://doi.org/10.1080/14708477.2023.2195855)
 
 - **Zhang, C.** (2022). **The Three Paths of Media and Global Governances**. *Journalism Lover*, (11): 51–54. [(DOI)](https://doi.org/10.16017/j.cnki.xwahz.2022.11.030)  
@@ -34,14 +31,17 @@ title: "Research"
 
 - **Zhang, C.**, & Wang, Z. (2023). **Despicable “other” and Innocent “us”: Emotion Politics in the Time of the Pandemic**. *Humanities and Social Sciences Communications*. [(DOI)](https://doi.org/10.7910/DVN/WOHWYD)
 
-- Krickovic, A., & **Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [(DOI)](https://doi.org/10.1093/cjip/poaa006)
-
 - Shen, G., Fan, X., & **Zhang, C.** (2019). **Contesting for Discursive Power: Content Analysis of China and Russia’s TV Channels’ Digital Discourse**. *News Journalist*, (04): 65–77. [(DOI)](https://link.cnki.net/doi/10.16057/j.cnki.31-1171/g2.2019.04.007)  
 (沈国麟, 樊祥冲, **张畅**. 争夺话语权: 中俄国家电视台在社交媒体上的话语传播**, *新闻记者*, (04):65–77.)
 
-### Norm Research
+### IR Study & Norm Research
+
+- **Zhang, C.**, & Zhao, X. (2024). **On the Three Historical Shifts in the Study of International Relations in China**. *The Journal of Northeast Normal University*, (6), 103–104. (Full text reprinted in *China Social Science Digest*, 2024, No. 6). [(DOI)](https://doi.org/10.16164/j.cnki.22-1062/c.2024.02.016)  
+  (**张畅**, 赵雪波. **论中国国际关系学的三次历史转向**, *东北师大学报(哲学社会科学版)*, (02), 157–164. 《中国社会科学文摘》2024年第6期全文转载)
 
 - **Zhang, C.** (2023). **Authoritarian Norm Contestation and International Broadcasting: RT's Norm Contestation Strategy During the Ukraine Crisis**. *International Politics*, online. [(DOI)](https://doi.org/10.1057/s41311-023-00513-0)
+
+- Krickovic, A., & **Zhang, C.** (2022). **Fears of Falling Short vs. Anxieties of Decline: Explaining Russia and China’s Divergent Approaches to Status-Seeking**. *The Chinese Journal of International Politics*, 13(2): 219–251. [(DOI)](https://doi.org/10.1093/cjip/poaa006)
 
 
 ### Book Reviews & Others
