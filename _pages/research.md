@@ -6,7 +6,7 @@ title: "Research"
 
 ## Publications
 
-### Media,Technology & Governance
+### Media, Technology & Governance
 
 - **Zhang, C.**, & Wang, L. (2025). **Virtual worlds, real politics: A cross‐national comparative study of metaverse policy approaches**. *Politics and Governance*, 13 , Article 10239. [(DOI)](https://doi.org/10.17645/pag.10239)
 
