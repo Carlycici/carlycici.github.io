@@ -62,15 +62,17 @@ title: "Research"
 - **Zhang, C.** (2018). **Internet and Global Social Movement. In Shen Guolin (Ed.), Internet and Global Communication: Theories and Cases**. Shanghai: *Fudan University Press*.  
 (张畅. 第五章: 互联网与全球社会运动, 沈国麟编, *互联网与全球传播:理论与案例*. 上海，复旦大学出版社.)
 
-## Selected Conferences 
+## GRANTS
 
-International Communication Association(ICA) Annual Meeting (75th, 74th, 73rd, 72nd)
+### National Level
+* **National Social Science Fund of China**: "Research on China’s Participation in the Global Norm-Reshaping Mechanism under the Three Global Initiatives"
+* **China Postdoctoral Science Foundation**: "International Communication Strategies and Impact of Russia Amidst the Russia-Ukraine Conflict"
 
-International Studies Association(ISA) Annual Meeting (65th)
+### Provincial & Ministerial Level 
+* **Beijing Municipal Education Science Planning Project**: "Theoretical Logic and Practical Framework for Integrating New International Relations Perspectives into Specialized IR Courses" 
 
-Midwest Political Science Association (MPSA) Annual Meeting (80th)
-
-International Pragmatics Association (IPrA) Annua Meeting (18th)
-
-American Political Science Association’s (APSA) Annual Meeting (118th)
-
+### University Level
+* **Fundamental Research Funds for the Central Universities**: "Visual International Politics in the Era of Short-Form Video"
+* **Fundamental Research Funds for the Central Universities**: "Research on the National Expression and International Communication Paths of China’s Animation Industry from the Perspective of Promoting Excellent Traditional Culture"
+* **Asia Media Research Centre Grant**: "A Comparative Study on the Communication Effects of China’s Global Governance Concept in Four ASEAN Countries"
+* **Asia Media Research Centre Grant**: "A Comparative Study of International Communication Strategies between China and Russia during Periods of Conflict"
