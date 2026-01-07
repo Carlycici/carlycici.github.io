@@ -65,14 +65,16 @@ title: "Research"
 ## GRANTS
 
 ### National Level
-* **National Social Science Fund of China**: "Research on China’s Participation in the Global Norm-Reshaping Mechanism under the Three Global Initiatives"
-* **China Postdoctoral Science Foundation**: "International Communication Strategies and Impact of Russia Amidst the Russia-Ukraine Conflict"
+* **National Social Science Fund of China**: Research on China’s Participation in the Global Norm-Reshaping Mechanism under the Three Global Initiatives
+* **China Postdoctoral Science Foundation**: International Communication Strategies and Impact of Russia Amidst the Russia-Ukraine Conflict
 
 ### Provincial & Ministerial Level 
-* **Beijing Municipal Education Science Planning Project**: "Theoretical Logic and Practical Framework for Integrating New International Relations Perspectives into Specialized IR Courses" 
+* **Beijing Municipal Education Science Planning Project**: Theoretical Logic and Practical Framework for Integrating New International Relations Perspectives into Specialized IR Courses
 
 ### University Level
-* **Fundamental Research Funds for the Central Universities**: "Visual International Politics in the Era of Short-Form Video"
-* **Fundamental Research Funds for the Central Universities**: "Research on the National Expression and International Communication Paths of China’s Animation Industry from the Perspective of Promoting Excellent Traditional Culture"
-* **Asia Media Research Centre Grant**: "A Comparative Study on the Communication Effects of China’s Global Governance Concept in Four ASEAN Countries"
-* **Asia Media Research Centre Grant**: "A Comparative Study of International Communication Strategies between China and Russia during Periods of Conflict"
+* **Fundamental Research Funds for the Central Universities**
+  * Visual International Politics in the Era of Short-Form Video
+  * Research on the National Expression and International Communication Paths of China’s Animation Industry from the Perspective of Promoting Excellent Traditional Culture
+* **Asia Media Research Centre Grant**
+  * A Comparative Study on the Communication Effects of China’s Global Governance Concept in Four ASEAN Countries
+  * A Comparative Study of International Communication Strategies between China and Russia during Periods of Conflict
